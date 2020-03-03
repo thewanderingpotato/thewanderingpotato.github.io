@@ -26,5 +26,5 @@ published: true
 ---
 the wandering potato是couch potato的反面  
 我是一隻會說話、要去看大千世界的土豆  
-
+  
 > 「他只有在幽暗中挨著時光，直好像是將一把崩了刃的細劍當拐杖拄著。」—— 芥川龍之介
