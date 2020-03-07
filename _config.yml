@@ -120,7 +120,7 @@ comments:
   provider: "disqus" # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
-  disqus: "disqus_dLJ8mSyYfw"
+  disqus:
     shortname: "thewanderingpotato" # the Disqus shortname for the site
 
   ## Gitalk
