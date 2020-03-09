@@ -21,7 +21,6 @@ titles:
   fr-CH: À propos
   fr-FR: À propos
   fr-LU: À propos
-key: page-about
 published: true
 ---
 the wandering potato是couch potato的反面  
