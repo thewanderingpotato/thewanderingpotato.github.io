@@ -41,7 +41,7 @@ header:
       # @end locale config
     url: /quotes.html
 
-- titles:
+  - titles:
       # @start locale config
       en      : &EN       About
       en-GB   : *EN
