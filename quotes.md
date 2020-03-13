@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: 摘錄
 permalink: /quotes.html
 ---
