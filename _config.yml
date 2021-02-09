@@ -106,11 +106,11 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: addthis # false (default), "addtoany", "addthis", "custom"
+  provider: "addthis" # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
-    id: # ra-60226b7952cf02ef
+    id: "ra-60226b7952cf02ef"
 
 
 ## => Comments
